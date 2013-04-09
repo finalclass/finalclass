@@ -1,0 +1,12 @@
+{
+  "name": "finalscript",
+  "version": "0.0.0",
+  "description": "Framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node ./spec.js"
+  },
+  "repository": "",
+  "author": "FinalClass",
+  "license": "MIT"
+}
