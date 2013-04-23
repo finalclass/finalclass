@@ -1,12 +1,27 @@
 {
-  "name": "finalscript",
+  "name": "final-class",
   "version": "0.0.0",
-  "description": "Framework",
+  "description": "System for creating classes, multi inheritance, Inversion of Control and Dependency Injection.",
   "main": "index.js",
-  "scripts": {
-    "test": "jasmine-node ./spec.js"
+  "dependencies": {
   },
-  "repository": "",
-  "author": "FinalClass",
-  "license": "MIT"
+  "devDependencies": {
+    "jasmine-node": "*"  		   
+  },
+  "scripts": {
+    "test": "jasmine-node ./spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:finalclass/finalclass.git"
+  },
+  "keywords": [
+    "class",
+    "ioc",
+    "framework"
+  ],
+  "author": "Szymon Wygnański <s@finalclass.net>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "200970017ac90acea78e695f2815cb9a851d3776"
 }
