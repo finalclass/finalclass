@@ -1,12 +1,11 @@
 {
   "name": "final-class",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "System for creating classes, multi inheritance, Inversion of Control and Dependency Injection.",
   "main": "index.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "jasmine-node": "*"  		   
+    "jasmine-node": "*"
   },
   "scripts": {
     "test": "jasmine-node ./spec/"
