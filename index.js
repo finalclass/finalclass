@@ -1,5 +1,4 @@
 /*jslint node:true, browser:true*/
-/*global FinalClass*/
 'use strict';
 
 if ('undefined' !== typeof window) {
@@ -11,4 +10,7 @@ if ('undefined' !== typeof window) {
     };
 } else {
     module.exports = require('./lib/FinalClass.js');
+    module.exports.EventEmitter = require('./lib/EventEmitter.js');
+    module.exports.Provider = require('./lib/Provider.js');
+    module.exports.FinalApp = require('./lib/FinalApp.js');
 }
