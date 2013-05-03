@@ -1,6 +1,6 @@
 {
   "name": "final-class",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "System for creating classes, multi inheritance, Inversion of Control and Dependency Injection.",
   "main": "index.js",
   "dependencies": {},
