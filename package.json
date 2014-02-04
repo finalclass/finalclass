@@ -29,10 +29,19 @@
   "bugs": {
     "url": "https://github.com/finalclass/finalclass/issues"
   },
+<<<<<<< HEAD
   "_id": "final-class@0.2.3",
   "_from": "final-class@*",
   "dist": {
     "shasum": "d86f40ad1b09254e200112972366964e4943c44e"
   },
   "_resolved": "https://registry.npmjs.org/final-class/-/final-class-0.2.3.tgz"
+=======
+  "_id": "final-class@0.0.2",
+  "_from": "final-class@*",
+  "dist": {
+    "shasum": "ab02e3788675a4368d2a91846d1f5e5d7222402b"
+  },
+  "_resolved": "https://registry.npmjs.org/final-class/-/final-class-0.0.2.tgz"
+>>>>>>> aa51f341ed971399deb72bef22e5d8510dd01dc2
 }
