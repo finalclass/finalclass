@@ -1,0 +1,38 @@
+{
+  "name": "final-class",
+  "version": "0.2.3",
+  "description": "System for creating classes, multi inheritance, Inversion of Control and Dependency Injection.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine-node": "*"
+  },
+  "scripts": {
+    "test": "jasmine-node ./spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:finalclass/finalclass.git"
+  },
+  "keywords": [
+    "class",
+    "ioc",
+    "framework"
+  ],
+  "author": {
+    "name": "Szymon Wygnański",
+    "email": "s@finalclass.net"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "readme": "# FinalClass",
+  "bugs": {
+    "url": "https://github.com/finalclass/finalclass/issues"
+  },
+  "_id": "final-class@0.2.3",
+  "_from": "final-class@*",
+  "dist": {
+    "shasum": "d86f40ad1b09254e200112972366964e4943c44e"
+  },
+  "_resolved": "https://registry.npmjs.org/final-class/-/final-class-0.2.3.tgz"
+}
